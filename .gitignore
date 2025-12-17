@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Chroma DB (local memory data)
+data/chroma/
+
+# OS files
+.DS_Store
